@@ -6,7 +6,7 @@
             "version": "latest",
             "installBicep": true
         },
-        "ghcr.io/azure/azd:latest": {}
+        "ghcr.io/azure/azure-dev/azd:latest": {}
     },
     "customizations": {
         "vscode": {
