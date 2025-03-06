@@ -1,5 +1,5 @@
 {
-    "name": "C# and Python Development Container",
+    "name": "Python Development Container",
     "image": "mcr.microsoft.com/devcontainers/python:3.12",
     "customizations": {
         "vscode": {

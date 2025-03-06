@@ -1,5 +1,5 @@
 {
-    "name": "C# and Python Development Container",
+    "name": "C# Development Container",
     "image": "mcr.microsoft.com/devcontainers/dotnet:8.0",
     "customizations": {
         "vscode": {
